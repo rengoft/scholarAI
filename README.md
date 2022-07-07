@@ -1,2 +1,2 @@
-# goomie_doomie
+# doomie
 Сборник учебных проектов
